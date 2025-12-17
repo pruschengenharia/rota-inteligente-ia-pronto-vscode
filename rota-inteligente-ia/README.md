@@ -210,9 +210,3 @@ rota-inteligente-ia/
     ├── grafo.dot
     └── kmeans_clusters.png
 
----
-
-## 8. Observações finais (para entrega acadêmica)
-- Execute o projeto antes da entrega para garantir que a pasta docs/ contenha as imagens geradas.
-- Ajuste data/nodes.csv, data/edges.csv e data/deliveries.csv para refletir o cenário do estudo de caso.
-- Caso a disciplina exija, inclua uma licença (ex.: MIT) e dados de autoria no repositório.
