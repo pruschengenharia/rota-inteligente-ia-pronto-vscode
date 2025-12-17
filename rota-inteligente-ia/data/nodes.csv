@@ -1,0 +1,8 @@
+id,label,type,x,y
+A,Centro de Distribuição,warehouse,0,0
+B,Loja Norte,store,5,1
+C,Restaurante Leste,restaurant,9,3
+D,Mercado Sul,market,1,7
+E,Farmácia Central,pharmacy,6,7
+F,Cliente Residencial,home,10,8
+G,Hub Intermediário,hub,4,4

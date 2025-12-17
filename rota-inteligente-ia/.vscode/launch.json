@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Rota Inteligente",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.main",
+      "args": [
+        "--start",
+        "A",
+        "--goal",
+        "F",
+        "--k",
+        "2"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}

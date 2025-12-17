@@ -1,0 +1,13 @@
+source,target,distance_km,time_min
+A,B,5.2,8
+A,D,4.8,7
+A,G,3.5,5
+B,C,4.0,6
+B,G,3.2,5
+C,F,2.8,4
+D,E,5.5,9
+D,G,4.1,6
+E,F,3.9,6
+E,G,2.5,4
+G,C,4.3,7
+G,F,5.0,8
